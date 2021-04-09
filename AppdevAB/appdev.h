@@ -10,5 +10,5 @@ typedef struct {
 	int min;
 	char rname[N];
 }rock;
-
+//Comment
 void send_data(rock);
